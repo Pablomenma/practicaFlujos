@@ -1,1 +1,4 @@
 siete 
+20 personas opinan cinco estrellas
+10 opinan cuatro estrellas 
+1 opina una estrella.

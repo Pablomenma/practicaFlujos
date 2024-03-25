@@ -1,1 +1,4 @@
-perro 
+razas de perro:
+pastor alemán.
+chiguagua 
+labrador perro 
